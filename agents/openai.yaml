@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 软件规模评估"
+  short_description: "从需求与设计文档生成可审计的规模、复杂度与成本评估"
+  default_prompt: "先判断是否属于企业管理软件，再使用 $ai-software-estimation 对指定需求和设计材料执行可追溯的规模、复杂度与成本评估。"
