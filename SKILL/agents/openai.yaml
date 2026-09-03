@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 软件规模评估"
+  short_description: "从 PRD 与设计文档生成可审计的规模、复杂度、不确定性与验证结果"
+  default_prompt: "先执行业务流程型软件门禁，再使用 $ai-software-estimation 按证据账本、确定性公式和逐参数置信度完成评估。"
